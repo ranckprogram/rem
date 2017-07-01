@@ -68,7 +68,7 @@
 
     function refreshRem() {
         var width = docEl.getBoundingClientRect().width;
-        if (width / dpr > 750) {
+        if (width / dpr > 750) {    //设计图的宽度是750 ，三处都要修改
             width = 750 * dpr;
         }
         var rem = width / 750 * 100;
