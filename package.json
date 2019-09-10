@@ -1,0 +1,19 @@
+{
+  "name": "rk-rem",
+  "version": "0.0.1",
+  "description": "移动端自适应策略 rem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranckprogram/rem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranckprogram/rem/issues"
+  },
+  "homepage": "https://github.com/ranckprogram/rem#readme"
+}
